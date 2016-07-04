@@ -1,2 +1,1 @@
-# funkoiinternship2016
-Game Developer Internship 2016
+# Huong dan Git co ban
